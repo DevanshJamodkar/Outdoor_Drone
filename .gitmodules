@@ -1,0 +1,15 @@
+[submodule "skybrush-server"]
+	path = skybrush-server
+	url = https://github.com/skybrush-io/skybrush-server.git
+[submodule "live"]
+	path = live
+	url = https://github.com/skybrush-io/live.git
+[submodule "ap-swarm-launcher"]
+	path = ap-swarm-launcher
+	url = https://github.com/skybrush-io/ap-swarm-launcher.git
+[submodule "viewer"]
+	path = viewer
+	url = https://github.com/skybrush-io/viewer.git
+[submodule "studio-blender"]
+	path = studio-blender
+	url = https://github.com/skybrush-io/studio-blender.git
